@@ -62,7 +62,8 @@
             "copied_and_added": "Mot de passe ajouté et copié dans le presse-papiers",
             "added": "Mot de passe ajouté"
         },
-        "formatting_tools": "Outils de formatage"
+        "formatting_tools": "Outils de formatage",
+        "character_count": "caractères"
     },
     "create_button": {
         "creating_secret": "Création du secret...",
@@ -649,7 +650,7 @@
             "invite_only_title": "Inscription sur invitation uniquement",
             "invite_only_description": "Les utilisateurs ne peuvent s'inscrire qu'avec un code d'invitation valide",
             "require_registered_user_title": "Utilisateurs enregistrés uniquement",
-            "require_registered_user_description": "Seuls les utilisateurs enregistrés peuvent créer et lire des secrets",
+            "require_registered_user_description": "Seuls les utilisateurs enregistrés peuvent créer des secrets",
             "disable_email_password_signup_title": "Désactiver l'inscription par e-mail/mot de passe",
             "disable_email_password_signup_description": "Désactiver l'inscription avec e-mail et mot de passe (connexion sociale uniquement)",
             "allowed_domains_title": "Domaines e-mail autorisés",
